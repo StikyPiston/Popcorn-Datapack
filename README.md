@@ -1,9 +1,8 @@
-# Minecraft 1.21 Datapack Template
+# Popcorn!
+A fun, Minecraft 1.21 Datapack that adds Popcorn!
 
-This is a **Template** for generating a Minecraft 1.21 Datapack!
+**NOTICE**, I am new to Datapack dev, so pack may randomly break :P  
+File an [Issue](https://github.com/StikyPiston/Popcorn-Datapack/issues), or create a [Pull Request](https://github.com/StikyPiston/Popcorn-Datapack/pulls) and fix it yourself!
 
-**NOTICE**, I am new to Datapack dev, so feel free to fork [this project](https://github.com/StikyPiston/MC-Datapack-Template),  
-and add whatever!
-
-Happy datapacking! (or whatever the datapackers say)  
+Happy Popcorn-making!
 - StikyPiston :D
