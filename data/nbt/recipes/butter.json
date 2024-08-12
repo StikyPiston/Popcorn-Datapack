@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " W ",
+        "WMW",
+        " W "
+    ],
+    "key": {
+        "W": {"item": "minecraft:wheat"},
+        "M": {"item": "minecraft:milk_bucket"}
+    },
+    "result": {
+        "id": "minecraft:cooked_chicken",
+        "components": {
+            "custom_model_data": 2483001, "custom_name": "[{'text':'Butter','italic':false,'color':yellow}]"
+        }
+    }
+}

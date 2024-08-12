@@ -1,0 +1,1 @@
+tellraw @a { "text": "Welcome to Popping Corn Co!", "color": "aqua" }
