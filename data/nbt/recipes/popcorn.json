@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "minecraft:wheat"
+    },
+    "result": {
+        "item": "minecraft:cooked_chicken",
+        "components": {
+            "custom_model_data": 2483002, "custom_name": "[{'text':'Popcorn','italic':false,'color':yellow}]"
+        }
+    }
+}
